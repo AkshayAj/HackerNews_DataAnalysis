@@ -1,5 +1,5 @@
 # HackerNews_DataAnalysis
-Track popular technology site Hacker News.
+Track popular technology site Hacker News to answer a few questions:
 
 Data set can also be found at https://www.kaggle.com/hacker-news/hacker-news-posts/data#
 
